@@ -1,5 +1,5 @@
 # timeline
-A set of classes for managing different world historytimelines.  
+A set of classes for managing different world historical timelines (list of events).
 
 What start as a minor project to record the events of the early Christian church has evolved into a generic timeline management services.  The idea is not to provide a through or authoriative set of events but a synopsis of events.   You can create your own timeline.txt file for import and graphing. 
 
