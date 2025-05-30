@@ -1,0 +1,145 @@
+# Timeline of events relating to creation of priestly orders
+#  starting source: https://en.wikipedia.org/wiki/List_of_popes#Religious_orders
+# Prefix: 'Order:'
+# 
+# Includes "worldly" events/movements
+# Prefix: 'Protestant:'
+# Prefix: 'Inquisition:'
+# 
+400 Order: Rule of St Augustine; link: https://faculty.georgetown.edu/jod/augustine/ruleaug.html
+529 Order: Rule of Saint Benedict
+    - he oldest of all the religious orders in the Latin Church.[1] 
+    - Benedict of Nursia, a 6th-century Italian monk who laid the foundations of Benedictine monasticism 
+    - Scholastica (sister) also became a religious from an early age, but chose to live as a hermit. 
+
+1059 Order: Lateran Synod; recognizing and approved the manner of life of the religious clergy as founded by bishops and others
+    - Pope Gregory VII, culminating in the  of 1059. Here for the first time the Apostolic See officially r. 
+    - reform the distinction being made between clerics who lived in separate houses
+    - clerics who still preserved the old discipline.
+1090 Order: distingish privilage of "canonici regulares" vs "canonici saeculares"; clarify hierarchy
+    - reformed houses of canons he clearly emphasized the nature and goal, the rights and duties of the canons regular. 
+    - Thus from the renewal of the canonical life there inevitably arose a new "order"—which initially had not been the intention. 
+    - privileges given to the new ordo of canonical life, a distinctive stamp.[7]
+1120 Order: Premonstratensians founded (Germany) ; introduce a strict form of canonical life in various communities of canons in Germany; 
+    - The Premonstratensian Rite was especially characterized by a ritual solemnity. 
+    - kept this rite after Pope Pius V suppressed such rites with a continuous tradition of less than two hundred years. 
+1125 Growth in christian communities, canons had sprung up in Western Europe. 
+    - quite independent of one another and varied in their ministries.[2] 
+    - Arroussians had restrained lifestyles along Cistercian (Benedictines branch; follow the Rule of Saint Benedict), 
+    - Premonstratensians (1120 UK) were more austere (part of the Augustinian tradition)
+1140 Protestant:Cathars ("Good Christians") Movement in Southern France - 1st mass organization, threat to the authority of the Church
+    - Christian quasi-dualist and 
+    - pseudo-Gnostic movement which thrived in Southern Europe
+    - between the 12th and 14th centuries.[3] 
+    - attacked first by the Albigensian Crusade and 
+    - later by the Medieval Inquisition, 
+    - Cathars believed that the good God was the God of the New Testament faith and creator of the spiritual realm. 
+    - human souls were the sexless spirits of angels trapped in the material realm of the evil god. 
+    - souls were destined to be reincarnated until they achieved salvation through the "consolamentum", 
+    - set few guidelines, leading some Catharist practices and beliefs to vary by region and over time.[10]
+1170 Protestant: Waldensians Northern Italy - 1st mass organization, threat to the authority of the Church
+    - adherents of a church tradition that began as an ascetic movement within Western Christianity before the Reformation. 
+    - Originally known as the Poor of Lyon, spreading to the Cottian Alps in what is today France and Italy. 
+    - Peter Waldo, a wealthy merchant who gave away his property around 1173,[4][2] preaching apostolic poverty as the way to perfection.
+    - declared heretical (1215)
+    - apostolic poverty (likw Franciscans)
+    - not willing to recognize the prerogatives of local bishops over the content of their preaching, 
+    - did not recognize standards about who was fit to preach
+    - subjected to intense persecution and were confronted with organised and general discrimination in the following centuries. 
+1184 Order: Medieval Inquisition - controlled by the church
+    - was a series of Inquisitions (Catholic Church bodies charged with suppressing heresy) 
+    - Episcopal Inquisition (1184–1230s) and later the Papal Inquisition 
+    - response to movements considered heretical to Catholicism, 
+    - response to 'mass organizations' (vs individual heretics)
+    - Inquisition: Catharism Southern France 
+    - Inquisition: Waldensians Northern Italy
+1184-1230 Inquisition: Episcopal
+1215 Waldensians were declared heretical
+1230 Inquisition: Papal  
+1350 Cathar Movement eradicated; 1 million were slaughtered, hanged, or burnt at the stake.[4][5][6][7]
+
+1319 Humanism: Dante Alighieri's Divine Comedy - reflects ainterest in classical literature , human-centered perspective. 
+1333-1345 Humanism: Cicero's lost works (1333 and 1345)
+1336 Humanism: Virgil's works 
+1353 Humanism: Genealogia Deorum Gentilium - Giovanni Boccaccio's Decameron interest in classical literature and mythology. 
+1370 Hummanism: Coluccio Salutati (Tuscan) refer to culture and learning as a guide to moral life, studia humanitatis 
+    - with a focus on rhetoric and oration. 
+    - studia humanitatis - means of restoring ancient texts and even understanding scripture and other divine literature.
+1400 Humanism: Start of Renaissance period; intellectual and artistic rebirth, rediscovery of classical texts; human potential
+1400 Inquisition: Spanish - Spanish monarchy using local clergy
+1403 Hummanism: De ingenuis moribus “On the Manners of a Gentleman and Liberal Studies”
+    - the most influential of Italian Renaissance educational treatises.
+    - stressed the importance of rhetoric, history, and moral philosophy 
+    - means of moral improvement.
+1450 Invention of the printing press by Johannes Gutenberg around 1450
+1453 Period: Byzantine Empire ends 
+1500 Humanism: Renaissance Humanist movement; emphasizing human potential, secular approach to knowledge; 
+    - shaping art, literature, and education (Europe)
+    - create a citizenry able to speak; write with eloquence/clarity
+    - capable of engaging in the civic life of their communities
+    - persuading others to virtuous and prudent actions. 
+1500 Humanism: Adagiorum Collectanea - (Erasmus) collection of Greek and Latin adages, classical learning. 
+1512 Humanism: On Copia - 
+1516 Humanism: New Testatement translation; (Novum instrumentum); Latin/Greek translation 
+1516 Humanism: Utopia - (Thomas More) reflecting the humanist interest in social reform and ideal societies. 
+1513 Humanism:The Prince (Machiavelli) and 
+1516 Humanism:The Book of the Coutier; explored the human condition and ideals of behavior
+1500 Inquisition: Roman
+1500 Inquisition: Portuguese
+1525 Order: Theatines Created 
+    - officially named the Congregation of Clerics Regular (Latin: Ordo Clericorum Regularium; abbreviated CR),
+    - Archbishop Gian Pietro Carafa  - pope
+    - is a Catholic order of clerics regular of pontifical right for men
+    - pursuit of evangelical perfection traditional among religious orders with apostolic service generally expected of diocesan clergy. 
+    - recall the clergy to an edifying life and the laity to the practice of virtue. 
+    - founded oratories (Divino Amore) and hospitals 
+    - devoted themselves to preaching the Gospel, and 
+    - reformed lax morals
+1525 Protestant: Zürich disputation (debates); acceptance of Protestant movement, principles for reformation movement
+    - a series of public debates held in 1523 in Zurich, Switzerland, was a pivotal event in the Swiss Reformation. 
+    - over 800 priests and laymen convened in the town hall on October 26-28, 1523
+    - consider the propriety of reforming the Mass and the use of images in church life.  
+    - leaders who would later become early spokesmen for the Anabaptist movement
+1528 Protestant: Reformed church of Zürich
+1528 Protestant: Waldensians were absorbed into the Protestant movement; Heinrich Bullinger, early Swiss reformer .
+1536 Protestant: First Helvetic Confession - unity of the Protestant cantons of Switzerland against the Roman Catholic cantons
+    - LINK: https://en.wikipedia.org/wiki/Helvetic_Confessions
+    - Articles 1-5 affirm the Protestant view:  Holy Scripture as its own interpreter (doctrine of sola scriptura)
+    - Scripture contains all that is necessary to know for salvation (sufficiency) and supremely authoritative over all other human writings. 
+    - Article 6 treats of the Trinity of persons in one divine essence. 
+    - Articles 7-10 discuss God's creation of man in his image; original sin, and God's eternal plan of salvation for fallen man.
+    - Articles 11-14 teach that we are saved by God's grace through Christ through faith alone. 
+    - Articles 15-20 treat of the Church, its authority and the office of the ministry. 
+    - Articles 21-23I are distinctly Reformed in sacramentology, 
+        - regarding baptism and the Lord's supper as 'holy symbols of high mysteries, not mere or empty signs, 
+        - but significant signs accompanying spiritual realities; 
+        - Baptism, water is the sign, regeneration and adoption the reality; 
+        - Supper the bread and wine are signs, communion of the body and blood of the Lord is the spiritual reality'.[3]: 204  
+    - Articles 24-28 treat of public worship, ceremonies, marriage and schism.
+1566 Protestant: Second Helvetic Confession (1566) unity of Reformed churches across Europe, 
+    - patronage it received from Frederick III, Elector Palatine, who had it translated into German.[1]: 635 [2]
+    - Chapters 1-2 treat of the doctrine of Scripture as the sole infallible authority (sola scriptura)
+        - regarding it as its own interpreter, and 
+        - subjecting all other human writings (traditional or Patristic) to the standard of the Bible.[3]:
+    - Chapter 3 Trinity (3 persons in the one divine essence); Apostles' Creed, 
+        - condemning 'Jews and Mohammedans and all who blaspheme this holy and adorable Trinity,' and 
+        - condemning all heretics who deny the deity of Christ and the Holy Ghost.'
+    - Chapter 4 expresses iconoclasm and condemns images of God or Christ. 
+    - Chapter 5 rejects the invocation of saints, 
+    - Chapter 6 establishes the characteristically Reformed doctrine of divine providence
+        - while allowing for secondary causes operating within God's sovereignty;
+        - we disapprove of the rash words of those who say that our efforts and endeavours are vain.'
+    - Chapters 7-9 teach that man consists of two substances: body and soul (bipartite view); 
+        - soul being immortal, 'We condemn those who deny immortality, or affirm the sleep of the soul, or teach that it is a part of God.'
+    - Chapter 10 on predestination 
+        - has been interpreted as 'moderate Calvinism' or Augustinianism, and 
+        - emphasises Christians' assurance of predestination through communion with Christ, 
+        - 'We shall have a sufficient testimony of being written in the book of life if we live in communion with Christ, and 
+        - if in true faith He is ours and we are His.'[3]: 210–211  
+        - The chapter references Philippians 2:13, For it is God which worketh in you both to will and to do of his good pleasure. 
+    - Chapter 11, besides confessing the hypostatic union of Christ's human and divine nature, accepts 'believingly and reverently the communication of properties, which is deduced from Scripture and employed by the universal ancient Church in explaining and reconciling passages apparently in contradiction.'[3]: 211  
+    - Chapter 14 describes the Protestant doctrine of penitence.
+1775 Order: Theatines order declined, 
+    - exacerbated by political upheavals. 
+    - General suppression of religious orders affected the Theatines more significantly because 
+    - the order historically acquired no possessions and so had no institutional infrastructure

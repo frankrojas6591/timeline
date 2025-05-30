@@ -1,0 +1,737 @@
+# Timeline of various religious milestones
+#   - collected from multitude of sources; no source is included
+# Format
+# ^####[-#*] [BC|AD]  <prefix:> milestone abstract... de
+#             - description text can not start with numeric 
+# all other lines inbetweeen milestones 
+#
+# Sources Varies
+#  Timeline of Catholic Church : https://en.wikipedia.org/wiki/Timeline_of_the_Catholic_Church
+# Prefix:
+# Schism:
+# Protestant:
+# Judeo: 
+# Greek:  <GREEK>
+
+
+3975-1607 BC Judeo: Genesis 
+1850 BC Judeo: Esnunna (connect to Covenant Code)
+1841 BC Judeo: Jacob born
+1845 BC Judeo: Jacob wrestles with God - Israel
+1750 BC Judeo: Hammurabi (connect to Covenant Code)
+1607-1461 BC Judeo: Exodus
+1600 BC Judeo: Book of Job
+1496 BC Judeo: Moses @ Mt Sinai
+1461 BC Judeo: Leviticus
+1461-1432 BC Judeo: Numbers
+1456 BC Judeo: Joshua into Canaan
+1423 BC Judeo: Deuteronomy
+1422-1370 BC Judeo: Joshua 
+1370-1075 BC Judeo: Judges
+1250-1240 BC Judeo: Ruth
+1110-1025 BC Judeo: 1 Samuels
+1018-985 BC Judeo: 1 Chronicles
+1035-970 BC Judeo: King David
+1025-985 BC Judeo: 2 Samuels
+1000 BC Judeo: Covenant Code (canon, *meme theory
+             … from Hammurabi 
+             … from Esnunna
+             ... somewhere
+1000 BC Judeo: Jewish Diaspora into Syria
+        - Syria Dispora Community
+        - The Jewish exiles in Babylon were not badly treated, and when the Persians gave permission for them to return to Jerusalem 
+        the majority elected to remain where they were.[9][10] 
+        - They and their descendants formed the diaspora, a large community of Jews living outside Judea, 
+985 BC Judeo: 1 Kings
+985-864 BC Judeo: Psalms985-536 BC 2 Chronicles
+982 BC Judeo: Proverbs
+980 BC Judeo: Song of Solomon
+950 BC Judeo: J source Yahwist source (canon) 
+945 BC Judeo: Ecclesiastes
+922 BC Judeo: Jewish Divided Kingdoms (928BC?)
+864 BC Judeo: Israel Rise to Power
+870-560 BC Judeo: 2 Kings
+840 BC Judeo: Joel
+840 BC Judeo: Jonah
+765 BC Judeo: Amos
+765-723 BC Judeo: Hosea
+748-700 BC Judeo: Isaiah
+747-704 BC Judeo: Micah
+745-612 BC Judeo: Assyrian Empire
+722 BC Judeo: Jewish Isreal conquered by Assyrian Conquest
+722 BC Judeo: Jewish diaspora - Israel exiled by Assyrians
+            …  rebels against Assyria, fails and goes into Exile 
+            … Refugees move into Judah… new traditions… 1 Only God
+641 BC Judeo: King Josiah – Judah
+640 BC Greek: Seven Sages (-546BC)
+    - Thales of Miletus (c.  624 BC – c. 546 BC) is the first well-known Greek philosopher, mathematician, and astronomer. 
+    - His advice, "Know thyself," was engraved on the front facade of the Temple of Apollo in Delphi.
+    - Pittacus of Mytilene (c.  640 BC – c. 568 BC) governed Mytilene (Lesbos). 
+    - He tried to reduce the power of the nobility and was able to govern with the support of the demos, whom he favoured.
+    - Bias of Priene (fl.  6th century BC) was a politician and legislator of the 6th century BC.
+    - Solon of Athens (c.  638 BC – c. 558 BC) was a famous legislator and reformer from Athens, 
+        framing the laws that shaped the Athenian democracy.
+    - The fifth and sixth sage are variously given as two of: Cleobulus, tyrant of Lindos (fl.  c.  600 BC ), 
+        reported as either the grandfather or father-in-law of Thales; Periander of Corinth (b. before 634 BC, d. c.  585 BC); 
+        Myson of Chenae (6th century BC); Anacharsis the Scythian (6th century BC).
+    - Chilon of Sparta (fl.  555 BC) was a Spartan politician to whom the militarization of Spartan society was attributed.
+628 BC Judeo: Nahum
+628 BC Judeo: Zephamiah
+627-561 BC Judeo: Jeremiah
+623 BC Judeo: “book of the Law” (from Moses)  found in temple
+            (Joshua 1:8 and 8:34, 2 Chronicles 34:14, 2 Kings 22:8, 2 Kings 23) 
+             … Assyria in decline… nationalism in Jerusalem
+             … Deuteronomic reforms – high priest
+             …“ancient covenant with Yahway was renewed”
+             … clean from idolatry
+             … YEHWAH replaces Assyrian King
+621 BC Judeo: Deuteronomic Code (canon, *meme theory … Rofé, pp.4–5)
+612-539 BC Period: Babylonian Empire
+607 BC Judeo: Habakkuk
+609 BC Judeo: Josiah dies … went against Egypt in support of Babylonia
+            … Went against advise of prophets Jeremiah/Hulda/Zephaniah
+            … Egypt was fighting Babylonia [battle of Hattan]
+            … Lementation 1-4 – “dirge on Josiah”
+599BC Greek: Start Ancient Philosophy Eastern & Western Greece
+597BC Judeo: Capture of Jerusalem by Nebuchadnezzar
+             … Babylonian Chronicles 
+587BC Judeo: Closure of canon
+586 BC Judeo: Lementations
+586BC Judeo: First Temple destroyed, Nebuchadnezzar (Babylonian)
+586-539 BC Judeo: Babylonian exile
+           ... Exile begin 🡪 groups in Babylon, Egypt, Judea
+585 BC Judeo: Obadiah
+570-592 BC Judeo: Ezekiel
+550BC Judeo: Priestly Laws Holliness Codes (canon, *meme theory)
+540BC Judeo: Deuteronomy given a new introduction
+539-331 BC Judeo:  Persian Empire [Medo-Persian]
+539BC Judeo: Cyrus (Persia in power… Babylonia declined
+           …  allowed Jews to return… many stayed, Ezra, build 2nd temple
+536-516 BC Judeo: Ezra (1-6)
+520 BC Judeo: Haggai
+520-518 BC Judeo: Zechariah
+515BC Period: Close of biblical period
+515-220 BC Judeo: Early Second Temple Judaism 
+    is Judaism 
+    - Persian king Cyrus II was called "messiah" in Isiaiah, due to his role in the return of the Jews exiles.[9]
+     
+    The development of the Hebrew Bible canon, 
+    the synagogue, 
+    Jewish apocalyptic expectations for the future
+    the rise of Christianity 
+    Jewish diaspora
+    Egyptian Diaspora Community
+    There was also significant Egyptian diaspora, 
+    although the Jews of Egypt were immigrants, not deportees
+    attracted by Hellenistic culture, eager to win the respect of the Greeks and to adapt to their ways" (John J. Collins, "Between Athens and Jerusalem).[13] 
+    The Egyptian diaspora was slow to develop, but in the Hellenistic period it came to outstrip the Babylonian community in importance.[14] 
+    World Jewish Diaspora Communities
+    In addition to these major centres there were Jewish communities throughout the Hellenistic and subsequently the Roman world, from North Africa to Asia Minor and Greece and in Rome itself.[15] 
+515 BC Judeo: construction of the Second Temple in Jerusalem, c. 515 BCE, 
+    
+
+486BC Judeo: ~ Eliasib High Priest dies, Judas succeeds, followed by John…               
+486BC Judeo: Darius I – last king of Babylonia….
+485BC Judeo: Xerxes I – King of Kings Persia – Achaemenid (Iran) dynasty 
+483-473 BC Judeo: Esther
+458-457 BC Judeo: Esra (7-10)
+450BC Judeo: Babylonian Talmud published (500-450BC)
+450BC Judeo: Tanakh compiled by “Great Assembly”
+445-432 BC Judeo: Nehemiah
+433BC Judeo: Nehemiah finds “library/books on kings, prophets and writings of David”
+432BC Judeo: Samritan Torah
+    - Manasseh … establishes community in Samaria (Neh: 13:28)
+    - Josephus Antiquities XI.7.2;8.2 [potentially days of Alexander the Great]
+    - Copying of their Pentateuch
+    - real schism occurred in Hasmonean times
+    - The Samaritans had their own temple on Mount Gerizim near Shechem and regarded themselves as the only true Israel, 
+    - The separation between Jews of Jerusalem and those of Samaria was a long and protracted process.[16] 
+    - For most of the Second Temple period Samaria was larger, richer, and more populous than Judea—
+    - down to about 164 BCE there were probably more Samaritans than Judeans living in Palestine.[17] 
+    - the remnant left behind when Israel was deceived by the wicked priest Eli to leave Gerizim and worship at Jerusalem.[18] 
+    - Second Temple Judeans regarded them as foreign converts and the offspring of mixed marriages, and therefore of impure blood.[19] 
+    - Relations between the two communities were often strained, but the definitive break dates from the destruction of the Gerizim temple and of Shechem by a Hasmonean king in the late 2nd century BCE; 
+    - before that the Samaritans seem to have regarded themselves as part of the wider Jewish community, but afterwards they denounced the Jerusalem temple as completely unacceptable to God.[20][21] 
+427 BC Greek: Plato Born (428/427 or 424/423 BC)
+425 BC Judeo: Malachi
+399 BC Greek: Plato writes Phaedo (“On the Soul”) - best known dialogues of plato
+    - By engaging in dialectic with a group of Socrates' friends, including the two Thebans, Cebes, and Simmias, 
+    - Socrates explores various arguments for the soul's immortality 
+        in order to show that there is an afterlife in which the soul will dwell following death. 
+    - Phaedo tells the story that following the discussion, he and the others were there to witness the death of Socrates.
+347 BC Greek: Plato Dies
+337BC Greek: Alexander the Great starts invasion of Persian Empire ( Darius III)
+333-164 BC Period: Hellenistic Empire
+333BC Judeo: Antigonus was appointed governor of Greater Phrygia 
+             a Macedonian nobleman, general, and satrap
+333BC Judeo: ~Jaddua high priest
+             … Manasseh brother – marries into the Samaritan/Persian
+                           – Sanballat governer by Darius
+             … Elders demand he divorce – worried about influence from Persians
+             …Sanballat promises/bribes Manasseh --  high priest& governor 
+             …build a temple on Gerizzim… with help of Darius
+332-146 BC Period: Greco Empire
+332BC Greek: Alexander defeats Dairus… goes into Tyre/Gaza
+             … Sanballat denounces Darius… helps Alexander @ Tyre
+             … ask for help with Manasseh (make him high priest)
+             … ask for Samaritan temple to divide the Jews
+             … asks for help/supplies from Jerusalem  -- refused alligence with Darius. 
+332BC Judeo: Jewish Disapora into Egypt
+    - The presence of Jewish communities in Egypt dates back to the Ptolemaic period, 
+        with a major influx after Alexander the Great's conquest in 332 BCE. 
+    - Alexandria became a center for Jewish life, known for its scholarship and 
+        integration into Greek-speaking society. 
+    - Philo of Alexandria was a prominent Jewish philosopher who lived in Egypt during the Roman period. 
+    - Jews also lived in other parts of Egypt, including communities in the Nile Delta and along the Red Sea. 
+332BC Judeo: Alexander marches onto Jerusalem
+             … Jaddua’s dream welcomes him…Alexander’s dream align
+             … Alexander – “I believe I bring this army under divine conduct…destroy Persia
+             … Jews granted to keep their laws & pay no tribute on 7th year
+             … Samaritans (“Shechem”) profess to be Jews (Jews have favor of Alexander)
+             … “Shechemites” invite to Alexander to honor the Gerizzm temple… 
+             … & petition to remit tribute on 7th year… but refused as they were not Jews. 
+323-031BC Period: Hellenistic - Alexander's death … his empire disintegrated… 
+321 BC Greek: Antigonus I escaped with his son Demetrius to Greece, 
+           … obtained the favour of Antipater, regent of Macedonia, and Craterus.
+321 BC Greek: Death of Perdiccas 
+          …Antigonus entrusted command of the war against Eumenes, 
+319 BC Greek: Antipater died in 319 BC,  regentship to Polyperchon, Antigonus refused to recognize 
+317 BC Greek: battles at Paraitacene Antigonus fought against Eumenes in two great wars
+316 BC Greek: battle at Gabiene Antigonus fought against Eumenes… had Eumenes executed
+    - Antigonus I now was in possession of the empire's Asian territories, 
+    - his authority stretching from the eastern satrapies to Syria and Asia Minor in the west. 
+    - He seized the treasures at Susa and entered Babylon. 
+315 BC Greek: Seleucus I (governer of Susa/Babylonia) fled to Ptolemy
+            … entered in league w/ Ptolemy,  Lysimachus and Cassander  against Antigonus. 
+314 BC Greek: Antigonus invaded Phoenicia, and besieged Tyre for more than a year.
+                 <Ptolemy gained control of Judea>  
+312 BC  Greek: Demetrius (son of Antigonus I) was defeated at the Battle of Gaza by Ptolemy
+312-064 BC Greek: Period: Seleucid Empire START [north …Turkey… Iran]
+309 BC Greek: Seleucus I defeated both Demetrius and Antigonus, and secured Babylonia.
+306 BC Greek: Demetrius conquered Cyprus
+306 BC Greek: Antigonus I declare himself king [Antigonid Dynasty]
+305 BC Greek: Ptolemaic Kingdom (Egypt) START  - Ptolemy declares himself king
+305 BC Greek: Demetrius attempted the reduction of Rhodes, 
+             (refused to assist Antigonus against Egypt. 
+304 BC Greek:  siege of Rhodes ended in 304 BC 
+301 BC Greek:  Antigonus  I Dies
+294 BC Greek:  Demetrius took control of Macedon
+287 BC Greek:  Demetrius  dies
+             <confusion>
+276 BC Greek:  Antigonus II Reigns as King
+239 BC Greek:  Antigonus II
+239 BC Greek:  Dometrus II Reigns as King
+229 BC Greek:  Antigonus III Reigns as King
+221 BC Greek:  Philp V
+301-200 BC Greek: Ptolemaic Hellenistic Empire
+300 BC Judeo: Jerusalem Talmud
+250 BC Judeo: Septuagint
+220 BC Judeo: Oral Torah converted to Mishnah
+217 BC Greek: Battle of Raphia [Gaza] – Ptolemy (Egypt) defeats Antiochus III (Seleucid)
+200 BC Period: Seleucid, Empire 
+    - rules over Judea 
+    - Tobiad family -- dispense with Jewish law and to adopt a Greek lifestyle.
+    - The Hellenizing Jews built a gymnasium in Jerusalem, competed in international Greek games, 
+        "removed their marks of circumcision and repudiated the holy covenant".[2]
+179 BC Greek: Perseus Reigns as King of Antigonus
+175 BC Greek: Antiochus IV Epiphanes - king of Seleucid(174–163) –  – ruler of Judea
+    - impose Hellenic cults on Judea (1 Maccabees 1:11)
+175 BC Judeo: Onias III Jewish High Priest
+    - traditionalists, with Hebrew/Aramaic names like Onias, 
+    - contested with the Hellenizers with Greek names like Jason and Menelaus over who would be the High Priest.[12]
+    - Jason, the brother of Onias, bribed Antiochus to make him High Priest instead.
+    - Menelaus then bribed Antiochus and was appointed High Priest in place of Jason. Menelaus had Onias assassinated.
+    - Menelaus’ brother Lysimachus stole holy vessels from the Temple, causing riots that led to his death. 
+    - Jason subsequently drove out Menelaus and became High Priest again 
+175 BC Judeo: Book of Ecclesiasticus [Wisdome of Sirach] (canon)
+170 BC Greek: Antiochus IV – War on Egypt START
+168 BC Roman: conquered by the Roman Republic at the Battle of Pydna
+167 BC Greek: Antiochus IV - War on Egypt END – returns after defeat… upset
+    - 2 Maccabees 5:11–14 … cut down without mercy…massacre of young and old, 
+        a killing of women and children, a slaughter of virgins and infants… 40K killed/40K slavery
+    - pursued a zealous Hellenizing policy. 
+    - 2 Maccabees 6:1–12… He made possession of the Torah a capital offense and burned the copies he could find.[6]
+    - The idol of Olympian Zeus was placed on the altar of the Temple. 
+    - sparked a national rebellion that ended in the expulsion of the Seleucids
+    - establishment of an independent Jewish kingdom under the Hasmonean dynasty
+
+
+167 BC Greek: Mattathias the Hasmonean, sparked the revolt against the Seleucid Empire 
+167 BC Greek: King Mithridates I of Parthia attacked from the east
+166 BC Judeo: son Judas Maccabee  victory over the Seleucid dynasty/Hellenistic Jews
+    - Jewish festival of Hanukkah celebrates the re-dedication of the Temple following Judah Maccabee's victory over the Seleucids. 
+164-167 BC Judeo: Daniel [some sources date it 604-534]
+164 BC Greek: Antiochus dies suddenly [battling Parthian]
+"eleventh horn of the beast" in the Book of Daniel (chapters 7 to 12).
+164-63 BC Period: Hasmonean Empire 
+    Dynasty START [Judea, Maccabees] – reduce Hellenism
+    - Hasmonean dynasty institutionalized the Jewish biblical canon
+    - refers to a period in ancient Jewish history (152-37 BCE) 
+    - first as high priests and later as kings. 
+    - This dynasty emerged after the Maccabean Revolt against the Seleucid Empire
+    - eventually gained control over Jerusalem and Judaea. 
+    - They established both religious and political authority, breaking a cardinal rule by claiming the throne 
+    - despite not being of the Davidic line, according to Wikipedia. 
+    - The Hasmoneans were a Jewish priestly family from Modein who resisted Seleucid rule and the forced Hellenization of Judea. 
+    - The Maccabean Revolt, led by Judas Maccabeus and his brothers, resulted in the rededication of the Second Temple in Jerusalem. 
+    - Initially, they served as rebel leaders and then gradually assumed the office of High Priest and the monarchical title. 
+161 BC Judeo: Internal Conflict : Maccabee vs Hellenist Party
+001 Judeo: Jewish Diaspora in Syria
+    1st century CE historian Josephus reported that there were more Jews in Syria (meaning the Seleucid empire) than in any other land.[11][12] 
+041-054 Judeo: confrontation between Simon Magus, the magician and Saint Peter in the Roman Forum (though this is not in the Bible).
+    historical accounts suggest he was in Rome during the reign of Emperor Claudius (41-54 AD)
+60 Judeo: priests were killed… Hellenizer Alcimus
+161 BC Judeo: Roman-Jewish Treaty was an agreement:
+    - ….Judah Maccabee/Roman Republic 1 Maccabees 8:17-20
+
+146-476 BC-AD Period: Roman Empire
+146 BC Roman: Greek heartland conquered by Romans
+??? BC Judeo: Treaty between Jews (Simon @ Rome senate)
+142 BC Judeo: Judea achieves level of “independence from external powers”
+
+#========================= 100 yrs before Christ
+142 BC Judeo: Simon Maccabee elected Chief High Priest (1 Macc, 14
+    - … "until a true prophet appears”… 
+    - Charge of Temple, military, public workd… royal rights. 
+    - Neither priest/people can go against decisions of Simo… punishment
+140 BC Judeo: ??? Antipater I belonged to a distinguished Edomite family, 
+    - …the members of which had embraced Judaism in the days of John Hyrcanus
+    - descended from Jews who had returned from the Babylonian Exile [denied by Josephus]
+    - During the rebellions of Alexander, the son of Aristobulus, Antipater supported the Roman governor Gabinius
+134 BC Judeo: John Hyrcanus – reigns as Hasmonean leader
+    - not an absolute ruler…submit at times to an assembly of Jews that had a certain amount of minority power
+    - specific conflict between the Pharisees and Hyrcanus (Ant. 13.288–296). Essentially, 
+    - criticism of Hyrcanus’ roles as High Priest and ethnarch by the Pharisees led to a falling out.[23] 
+    - elevated the status of the Sadducees.
+128 BC Judeo: Gerizim temple (Samritan) destroyed (Hasmonean times)
+      … schism between sarmaritans and Jerusalem
+125 BC Judeo: Hyrcanus conqueres Edom forcibly converted them, among others, to Judaism[36] and 
+    - incorporated them into the Jewish nation,[17] despite the opposition of the Pharisees
+122 BC Judeo: Samaritan Torah  (close connection to Septuagint)
+113 BC Judeo: Hyrcanus military campaign against Samaria [sons Antigonus/Aristobulus]
+    - Samarians->Not worshippers of YHWH…slaves
+110 BC Judeo: Hyrcanus - Invasion of Transjordan (city of Medeba), Schechem, 
+    - reduced temple of Mount Gerizim
+    - [Josephus] the forced conversions by the Sadducee [target Idumeans] 
+       influenced Hasmonean leader John Hyrcanus.
+104 BC Judeo: Judah Aristobulus I – 1st ruler of Hebrew Hasmonean Dynasty 
+    - Starts Jewish community or council of the Jews became “Hever ha-Yehudim” and in the Greek, the “Sanhedrin.”
+    - Aristobulus was dependent on the military aristocracy which was directly opposed to Edomite influence.
+    - Antipater, with Nabatean help, won a victory over Aristobulus who was forced to retreat to the Temple Mount.
+103 BC Judeo: Alexander Jannaeus – king of Judea
+    - cruel persecution of  Pharisee party.
+    - supported by Saduceeses 
+    - “King Yannai" he appears as a wicked tyrant in the Talmud, 
+    - conflict with the Pharisee party.
+    - kill 6K @ Feast of Tabernacles… lead to Jewish Civil war
+    - Antipater II as an ally of *Hyrcanus, son of Alexander Yannai, and as an opponent of the latter's brother *Aristobulus
+085 BC Judeo: Jewish Wars START
+081 BC Judeo: Alexander Jannaeous establies city of Gamla (capital …Golan Heights)
+076 BC Judeo: Alexandra of Jerusalem (wife) – reign over Judea [last woman ruler (Jewish)]
+    she protected Pharisees and hid Pharisees from his wrath
+074 BC Judeo: Jewish Wars END
+073 BC Judeo: Third Mithridatic War START 
+067 BC Judeo: Alexandra DEAD – son Aristobulus succeeds (high priest?)
+063 BC Judeo: Seleucid Empire END Turkey… Iran
+063 BC Judeo: Hasmonean Dynasty END [Judea, Maccabees]
+063–476 BC-AD Period: Roman Empire
+062 BC Roman: Pro Archia poeta (Cicero)
+063 BC Roman: Third Mithridatic War END  -- Roman Republic takes over Judea – T
+047 BC Roman: Siege of Alexandria during Caesar's Civil War. Alexandrian War
+047 BC Judeo: Library of Alexandria destruction
+    - Caesar set fire to the Ptolemaic boats in the harbor as a distraction
+    - the fire would eventually spread to the museum, parts of the palace and to the Great Library in the process.[24][25][22] 
+    - Roman historian Livy claimed that up to 40,000 volumes of books and papyrus scrolls could have been burned and destroyed in this fire.
+    - experienced multiple incidents of fire and destruction, not a single definitive "burning" date. 
+    - While a fire in 48 BCE caused by Julius Caesar's troops during the Alexandrian War is the most widely cited incident, 
+    - it's believed to have caused damage rather than complete destruction. 
+040 BC Roman: Parthians (east Iran) invaded the eastern Roman provinces
+    - drive the Romans out of many areas.
+    - In Judea, the Hasmonean dynasty was restored under king Antigonus as a pro-Parthian monarch.
+    - Herod the Great, the son of Antipater the Idumean and Cypros (possibly of Nabataean descent), managed to escape to Rome.. 
+037 BC Judeo: Herod the Great – reign as king (roman) of Judea
+    - made king of Jews by Rome senate
+031 BC Greek: Defeat of Ptolemaic Kingdom – battle of Actium – end of Hellenistic Period
+030 BC Greek: Period:Ptolemaic Kingdom (Egypt) END
+030 BC Greek: Battle of Alexandria, fought between Octavian and Mark Antony and Cleopatra. 
+020 BC Judeo: Samaritan Targum (explaination) traditionally ascribed the Targum to Nathanael, a Samaritan priest 
+     - …. Targum Onkelos (or Unkelus), is the official eastern (Babylonian) targum (Aramaic translation) to the Torah. However, its early origins may have been western, in Israel. Its authorship is attributed to Onkelos, אונקלוס, a famous convert to Judaism in Tannaic times (c.35–120 AD)
+7-29 BC Church: Luke
+6-29 BC-AD Church: Matthew
+004 BC Judeo: Herod Archelaus - Jewish ethnarch of Samaria, Judea, and Idumea (biblical Edom)
+
+
+006 AD Judeo: Herod Archelaus deposed by Augustus; Samaria, 
+    - Judea and Idumea annexed as Iudaea Province under direct Roman administration,[1] capital at Caesarea, 
+    - Quirinius became Legate (Governor) of Syria, 
+    - conducted Census of Quirinius, opposed by Zealots (JA18, Luke 2:1–3, Acts 5:37)
+007 AD Judeo: START Brief period of peace, relatively free of revolt and bloodshed in Iudaea & Galilee[2]
+009 AD Judeo: Pharisee leader Hillel the Elder dies, temporary rise of Shammai
+014 AD Judeo: START Tiberius, Roman Emperor
+018 AD Judeo: START Caiaphas, appointed High Priest of Herod's Temple by Prefect Valerius Gratus, deposed by Syrian Legate Lucius Vitellius
+019 AD Judeo: Jews, Jewish proselytes, astrologers, expelled from Rome[3]
+025-029 AD Church: John
+025-029 AD Church: Mark
+026 AD Judeo: END Brief period of peace, relatively free of revolt and bloodshed in Iudaea & Galilee[2]
+026 AD Church: START Pontius Pilate, Prefect (governor) of Iudaea, 
+    - recalled to Rome by Syrian Legate Vitellius on complaints of excess violence (JA18.4.2)
+028 AD Church: John the Baptist begins his ministry in the "15th year of Tiberius" (Luke 3:1–2)
+    - saying: "Repent, for the kingdom of heaven is near" (Matthew 3:1–2), 
+    - a relative of Jesus (Luke 1:36), 
+    - a Nazirite (Luke 1:15), 
+    - baptized Jesus (Mark 1:4–11), later arrested and beheaded by Herod Antipas (Luke 3:19–20), 
+    - it's possible that, according to Josephus' chronology, John was not killed until 36 (JA18.5.2)[4]
+029-064 AD Church: Acts
+033 Period: Apostolic Age; from the death and resurrection of Jesus Christ to the death of the last apostle,
+    - approximately 30 to 100 AD. 
+    - foundational era of the Church, 
+    - marked by the apostles' direct witness and teaching.
+    - spread of Christianity, 
+    - the development of Christian doctrines, 
+    - establishment of early church structures. 
+033 Church: Conversion of Paul (approx.)
+036 Church: END Pontius Pilate, Prefect (governor) of Iudaea, 
+    - recalled to Rome by Syrian Legate Vitellius on complaints of excess violence (JA18.4.2)
+036 END Church: Caiaphas, appointed High Priest of Herod's Temple
+                 by Prefect Valerius Gratus, deposed by Syrian Legate Lucius Vitellius
+037 Roman: END Tiberius, Roman Emperor
+037 Period: Ante-Nicene 
+
+
+037 AD Judeo: Herod Agrippa I
+037-41 AD Church: Crisis under Caligula, proposed as the first open break between Rome and the Jews[5]
+043 AD Church: Epistle of James if written by James the Great
+044 AD Church: Saint James the Great: 
+    - According to ancient local tradition, on 2 January of the year AD 40, 
+    - the Virgin Mary appeared to James on a pillar on the bank of the Ebro River at Caesaraugusta, 
+    - while he was preaching the Gospel in Spain. 
+    - Following that vision, St James returned to Judea, 
+    - where he was beheaded by King Herod Agrippa I in the year 44 during a Passover (Nisan 15) (Acts 12:1-3).
+044 Judeo: Death of Herod Agrippa I (JA19.8.2, Acts 12:20-23)
+044-46 AD Church: Theudas beheaded by Procurator Cuspius Fadus
+    - for saying he would part the Jordan river (like Moses and the Red Sea or Joshua and the Jordan) 
+        (JA20.5.1, Acts 5:36-37 places it before the Census of Quirinius)
+45 AD Church: James
+045-49 AD Church: Mission of Barnabas and Paul, (Acts 13:1-14:28), 
+    - to Cyprus, Pisidian Antioch, Iconium, Lystra and Derbe (there they were called "gods ... in human form"), 
+    - then return to Syrian Antioch. Map1
+047 Church: The Church of the East is created by Saint Thomas
+
+048-100 Period: Herod Agrippa II appointed King of the Jews by Claudius, 
+              seventh and last of the Herodians
+049 Judeo: Claudius expels Jews from Rome
+    - "Since the Jews constantly made disturbances at the instigation of Chrestus,[6] 
+        he [Claudius] expelled them from Rome." (referenced in Acts 18:2)[7]
+050 Church: Passover riot in Jerusalem, 20-30,000 killed (JA20.5.3,JW2.12.1)
+050? Church: Council of Jerusalem and the "Apostolic Decree", 
+    - determines that Gentile converts to Christianity do not have to abide by Mosaic Laws. 
+        This will gradually lead to the separation of Christianity from Judaism.
+    - Acts 15:1-35, same as Galatians 2:1-10?, 
+    - which is followed by the Incident at Antioch[8] at which Paul publicly accuses Peter of "Judaizing" (2:11-21), 
+    - see also Circumcision controversy in early Christianity
+050-53? Church: Paul's 2nd mission, (Acts 15:36-18:22), 
+    - split with Barnabas, to Phrygia, Galatia, Macedonia, Philippi, Thessalonica, Berea, Athens, Corinth, 
+    - "he had his hair cut off at Cenchrea because of a vow he had taken", 
+    - then return to Antioch; 1 Thessalonians, Galatians written? Map2. 
+    - Lydia of Thyatira, a seller of purple, becomes the first European Christian convert[9] (Acts 16:11-15)
+051-52 Church: Proconsulship of Gallio according to an inscription, only fixed date in chronology of Paul[10]
+052 Church: St. Thomas the Apostle lands in India.[11][12] 
+    - Establishes churches at Kodungalloor, Palayoor, Paraur, Kottakkav, Kokkamangalam, Nilakkal, Niranam and Kollam
+053-57? Church: Paul's 3rd mission, (Acts 18:23-22:30), to Galatia, Phrygia, Corinth, Ephesus, Macedonia, Greece, and Jerusalem 
+    - where James the Just challenges him about rumor of teaching antinomianism (21:21); 
+    - addresses a crowd in their language (most likely Aramaic), Romans, 1 Corinthians, 2 Corinthians, Philippians written? Map3
+055? Church: "Egyptian prophet" (allusion to Moses) and 30,000 unarmed Jews doing The Exodus reenactment massacred by Procurator Antonius Felix (JW2.13.5, JA20.8.6, Acts 21:38)
+058? Church: Paul arrested, accused of being a revolutionary,
+    - "ringleader of the sect of the Nazarenes", 
+    - teaching resurrection of the dead, imprisoned in Caesarea (Acts 23-26)
+059? Church: Paul shipwrecked on Malta, there he is called a god (Acts 28:6)
+060? Church: Paul in Rome: greeted by many "brothers", 
+    - three days later calls together the Jewish leaders, who hadn't received any word from Judea about him, 
+    - but were curious about "this sect", which everywhere is spoken against; 
+    - he tries to convince them from the "law and prophets", with partial success – said the Gentiles would listen, and 
+    - spends two years proclaiming the Kingdom of God and teaching "the Lord Jesus Christ" (Acts 28:15-31); Epistle to Philemon written?
+060-64? Church: early date for writing of 1 Peter (Peter as author)
+061 Church: (before 062) Epistle of James if written by James the Just
+062 Church: James the Just stoned to death for law transgression 
+    - by High Priest Ananus ben Artanus, popular opinion against act results in Ananus being deposed by new procurator Lucceius Albinus (JA20.9.1)
+063-107? Church: Simeon, 2nd Bishop of Jerusalem, crucified under Trajan
+064-68 Church: after July 18 Great Fire of Rome, Nero blames and persecutes the Christians (or Chrestians[13]), 
+    - possibly the earliest mention of Christians, 
+    - by that name, in Rome, see also Tacitus on Jesus, Paul beheaded? (Col 1:24,Eph 3:13,2 Tim 4:6-8,1Clem 5:5-7), 
+    - Peter crucified upside-down? (Jn 21:18,1 Pet 5:13,Tertullian's Prescription Against Heretics chapter XXXVI,
+    - Eusebius' Church History Book III chapter I), 
+    - "...a vast multitude, were convicted, not so much of the crime of incendiarism as of hatred of the human race. 
+        And in their deaths they were made the subjects of sport; for they were wrapped in the hides of wild beasts and 
+        torn to pieces by dogs, or nailed to crosses, or set on fire, and when day declined, 
+        were burned to serve for nocturnal lights." (Annals (Tacitus) XV.44)
+064-76? Church:  Pope Linus succeeds Peter as Episcopus Romanus (Bishop of Rome)
+064 Church: Epistle to the Hebrews written
+065? Church: Q document, a hypothetical Greek text thought by many critical scholars to have been used in writing of Matthew and Luke
+066-73 Judeo: Great Jewish Revolt: 
+    - destruction of Herod's Temple and end of Judaism 
+    - according to Supersessionism, 
+    - Qumran community (site of Dead Sea Scrolls found in 1947)destroyed
+069 Judeo: Romans build a wall around Jeresalem… cut off food
+    - Jews fighting/killing each other, stealing food stuff
+    - Greatest famine
+070(+/-10)? Church: Gospel of Mark, written in Rome, 
+    - by Peter's interpreter (1 Peter 5:13), 
+    - original ending apparently lost, endings added c. 400, see Mark 16
+070 Judeo: Jewoish Second Temple - destruction by the Romans in 70 CE.
+070? Church: Signs Gospel written, hypothetical Greek text used in Gospel of John to prove Jesus is the Messiah
+070-100? Church: Additional Pauline Epistles
+70-200? Church: Gospel of Thomas, 
+    - Jewish Christian Gospels: 
+    - Gospel of the Ebionites, 
+    - Gospel of the Hebrews, 
+    - Gospel of the Nazarenes
+072 Church: Martyrdom of St. Thomas the Apostle at Chinnamala, 
+    - Mylapore, Chennai (Tamil Nadu)
+076-088? Church: Pope Anacletus: first Greek Pope, who succeeds Linus as Episcopus Romanus (Bishop of Rome)
+080 Church: Didache written
+080? Church: Gospel of Matthew, based on Mark and Q, most popular in Early Christianity
+080? Church: Gospel of Luke, based on Mark and Q, also Acts of the Apostles by same author
+080? Church: Pastoral Epistles written (possible post-Pauline authorship)
+088-101? Church: Clement, fourth Bishop of Rome:  wrote Letter of the Romans to the Corinthians (Apostolic Fathers)
+090? Judeo: Council of Jamnia of Judaism (disputed), Domitian applies the Fiscus Judaicus tax even to those who merely "lived like Jews"[14]
+090? Church: late date for writing of 1 Peter (associate of Peter as author)
+094 Judeo: Testimonium Flavianum, disputed section of Jewish Antiquities by Josephus in Aramaic, translated to Koine Greek
+095? Church: Gospel of John and Epistles of John
+095? Church: Book of Revelation written, by John (son of Zebedee) and/or a disciple of his
+096 Church: Nerva modifies the Fiscus Judaicus,
+    - from then on, practising Jews pay the tax, Christians do not[15]
+98-117? Church: Ignatius, third Bishop of Antioch, 
+    - fed to the lions in the Roman Colosseum, 
+    - advocated the Bishop (Eph 6:1, Mag 2:1,6:1,7:1,13:2, Tr 3:1, Smy 8:1,9:1),
+    - rejected Sabbath on Saturday in favor of "The Lord's Day" (Sunday). (Mag 9.1), 
+    - rejected Judaizing (Mag 10.3), first recorded use of the term catholic (Smy 8:2).
+100? Church: Epistle of Barnabas (Apostolic Fathers)
+100? Church: Epistle of James if written by author other than James the Just or James the Great
+100? Church: Epistle of Jude written, probably by doubting relative of Jesus (Mark 6,3), 
+    - rejected by some early Christians due to -its reference to apocryphal Book of Enoch (v14)
+#=================== PERIOD: Ante-Nicene Period ===================
+
+100-325 Period: Ante-Nicene Period in Christian history time between the Apostolic Age and the First Council of Nicaea
+    - It's characterized by the development of Christian theology and the early Church's organization, 
+    - the rise of Apostolic Fathers and Apologists. 
+    - This period laid the foundation for later Christian doctrine and practices, including the development of the Nicene Creed. 
+100-150? Church: Apocryphon of James, 
+    - Gospel of Mary Magdalene, 
+    - Gospel of James, 
+    - Infancy Gospel of Thomas, 
+    - Secret Gospel of Mark (Complete Gospels, published by Jesus Seminar)
+110-130? Church: Papias, bishop of Hierapolis
+    - writes "Expositions of the Sayings of the Lord", lost, widely quoted (Apostolic Fathers)
+110-160? Church: Polycarp, bishop of Smyrna, Letter to the Philippians, (Apostolic Fathers)
+115-117 Judeo: Jewish Disapora from Roman Empire
+    - The Roman period witnessed persecution and the near-total destruction of Jewish communities, including those in Egypt, 
+    - following the Jewish diaspora uprising of 115–117 CE. 
+120? Judeo: Rabbi Tarfon advocates burning the Gospels[16]
+125? Church: 2 Peter written, widely accepted into canon by the early 4th century
+125? Church: Rylands Library Papyrus P52, 
+    oldest extant NT fragment, p. 1935, parts of Jn18:31-33,37-38
+130-250? Church:  "Christian Apologists" writings against Roman religion: 
+    - Justin Martyr, Athenagoras, 
+    - Apology of Aristides, 
+    - Theophilus of Antioch, 
+    - Tatian, Quadratus, 
+    - Melito of Sardis, 
+    - Apollinaris Claudius, 
+    - Marcus Minucius Felix, 
+    - Arnobius, 
+    - Epistle to Diognetus
+132-135 Judeo: Bar Kokhba's revolt: final Jewish revolt, 
+    - Judea and Jerusalem erased from maps, 
+    - region renamed Syria Palæstina (the term Palestine was originally coined by Herodotus), 
+    - Jerusalem renamed Aelia Capitolina
+144 Church: Schism: Marcionism
+    - Marcion of Sinope: bishop according to Catholic Encyclopedia, 
+    - goes to Rome, possibly to buy the bishopric of Rome, 
+    - upon rejection forms his own church in Rome, later called Marcionism, 
+    - rejected Old Testament, 
+    - decreed canon of one Gospel, one Apostolicon (10 Letters of Paul) and 
+    - one Antithesis[17] which contrasted the Old Testament with the New Testament, 
+    - cited Western text-type, 
+    - see also Expounding of the Law#Antithesis of the Law
+150? Church: "Western Revisor" adds/subtracts from original Acts 
+    - to produce Western version which is 10% larger and found in Papyrus P29,38,48 and Codex Bezae (D)
+150? Church: Valentinius (most famous Christian Gnostic, according to Tertullian) 
+    - narrowly loses election for Bishop of Rome
+150? Church: Shepherd of Hermas, written in Rome (Apostolic Fathers)
+150-200? Church: Other Gospels: 
+    - Unknown Berlin Gospel, 
+    - Gospel of Peter, 
+    - Oxyrhynchus Gospels, 
+    - Dialogue of the Saviour
+155? Church: Montanus claims to be the Paraclete ("Counselor") of John 14:16
+160? Church: Martyrdom of Polycarp (Apostolic Fathers)
+170? Church: Dionysius, bishop of Corinth[18] 
+    - claimed Christians were changing and faking his own letters just as [he knew] they had changed the Gospels
+    - (Eusebius' EH 4 c.23 v.12;Ante-Nicene Fathers,v.8)
+170? Church: Tatian produces "Diatessaron" (Harmony) 
+    - by blending 4 "Western" text-type Gospels into 1
+170? Church: Symmachus the Ebionite writes new Greek translation of Hebrew Bible
+177 Church: Persecution in Lyon, martyrdom of Blandina
+180? Church: Hegesippus
+180-202? Church: Irenaeus, Bishop of Lyon: combated heresies,
+    -  cited "Western" Gospel text-type (Ante-Nicene Fathers); 
+    - second "Primate of the Gauls"
+185-350? Church: Muratorian fragment, 
+    - 1st extant canon for New Testament after Marcion?, 
+    - written in Rome by Hippolytus?, 
+    - excludes Hebrews, James, 1-2 Peter, 3 John; 
+    - includes Wisdom of Solomon, Apocalypse of Peter
+186? Church: Saint Apollonius: used the term catholic in reference to 1 John
+188-231 Church: Saint Demetrius: bishop of Alexandria, condemned Origen
+189-198 Church: Pope Victor I; 1st Latin Pope, 
+    - excommunicated Eastern churches that continued to observe Easter on Nisan 14 Quartodeciman
+196? Church: Polycrates, bishop of Ephesus (Ante-Nicene Fathers)
+199-217? Church: Caius,[19][20] presbyter of Rome, 
+    - wrote "Dialogue against Proclus" in Ante-Nicene Fathers, 
+    - rejected Revelation, said to be by Gnostic Cerinthus, 
+    - see also Alogi
+200? Church: Papyrus 46; 2nd Chester Beatty, Alexandrian text-type; 
+    - Papyrus 66: 2nd Bodmer, John, 1956, 
+    - "Alexandrian/Western" text-types; 
+    - Papyrus 75: Bodmer 14-15, Luke & John, earliest extant Luke, 
+    - ~Vaticanus; 200? Papyrus 32: J. Rylands Library: Titus 1:11-15;2:3-8; 
+    - Papyrus 64 (+67): Mt3:9,15; 5:20-22,25-28; 26:7-8,10,14-15,22-23,31-33
+200? Church: Sextus Julius Africanus
+200? Church: Antipope Natalius,[21] rival bishop of Rome, 
+    - according to Eusebius's EH5.28.8-12, quoting the Little Labyrinth of Hippolytus, 
+    - after being "scourged all night by the holy angels", covered in ash, dressed in sackcloth, and "after some difficulty", tearfully submitted       - to Pope Zephyrinus
+217-236 Church: Antipope Hippolytus, 
+    - Logos sect? Later dispute settled and considered martyr, Roman canon
+218-258 Church: Cyprian, Bishop of Carthage, 
+    - cited "Western" NT text-type, claimed Christians were freely forging his letters to discredit him (Ante-Nicene Fathers)
+220? Church: Clement of Alexandria, 
+    - cited "Alexandrian" NT text-type 
+    - & Secret Gospel of Mark 
+    - & Gospel of the Egyptians; 
+    - wrote "Exhortations to the Greeks"; 
+    - "Rich Man's Salutation"; 
+    - "To the Newly Baptized";
+    -  (Ante-Nicene Fathers)
+220?-340? Church: Codex Tchacos, 
+    - manuscript containing a copy of the Gospel of Judas, is written
+223? Church: Tertullian: sometimes called "father of the Latin Church", 
+    - because he coined trinitas, tres Personae, una Substantia, Vetus Testamentum, Novum Testamentum, 
+    - convert to Montanism, cited "Western" Gospel     
+    - text-type (Ante-Nicene Fathers)
+225? Church: Papyrus 45: 1st Chester Beatty Papyri, 
+    - Gospels (Caesarean text-type, mixed), 
+    - Acts (Alexandrian text-type)
+235-238 Church: Roman: Maximinus Thrax: emperor of Rome, 
+    - ends Christian schism in Rome by deporting Pope Pontian and Antipope Hippolytus to Sardinia, where they soon die
+248-264 Church: Dionysius, Patriarch of Alexandria, see also List of Patriarchs of Alexandria
+250? Church: Apostolic Constitutions, 
+    - Liturgy of St James, 
+    - Old Roman Symbol, 
+    - Clementine literature
+250? Church: Letters of Methodius, 
+    - Pistis Sophia, 
+    - Porphyry Tyrius, 
+    - Commodianus (Ante-Nicene Fathers)
+250? Church: Papyrus 72: Bodmer 5-11+, pub. 1959, 
+    - "Alexandrian" text-type: Nativity of Mary; 
+    - 3Cor; Odes of Solomon 11; 
+    - Jude 1-25; 
+    - Melito's Homily on Passover; 
+    - Hymn fragment; 
+    - Apology of Phileas; Ps33,34; 1Pt1:1-5:14; 2Pt1:1-3:18
+250? Church: Origen Jesus and God one substance, adopted at First Council of Nicaea in 325, 
+    - compiled Hexapla; 
+    - cites Alexandrian, 
+    - Caesarean text-type; 
+    - Eusebius claimed Origen castrated himself for Christ due to Mt19:12 (EH6.8.1-3)
+251-424? Church: Synods of Carthage
+251-258 Church: Antipope Novatian decreed no forgiveness for sins after baptism 
+    - (An antipope was an individual whose claim to the papacy was either rejected by the Church at the time or later recognized as invalid.)[22]
+252-300 Church: Church Antioch : original patriarchates
+    - ten assemblies of the church were held at Antioch 
+    - seat of one of the five original patriarchates (Constantinople, Jerusalem, Alexandria, and Rome).
+254-257 Church: Pope Stephen I: major schism over rebaptizing heretics and apostates
+258 Church: "Valerian's Massacre": 
+    - Roman emperor issues edict to execute immediately all Christian Bishops, Presbyters, and Deacons, 
+    - including Pope Sixtus II, Antipope Novatian, Cyprian of Carthage (CE: Valerian, Schaff's History Vol 2 Chap 2 § 22)
+264-269 Church: Synods of Antioch: condemned Paul of Samosata, Bishop of Antioch, 
+    - founder of Adoptionism (Jesus was human until Holy Spirit descended at his baptism), 
+    - also condemned term homoousios adopted at Nicaea
+265 Church: Gregory Thaumaturgus (Ante-Nicene Fathers)
+270? Church: Anthony begins monastic movement
+275? Church: Papyrus 47: 3rd Chester Beatty, ~Sinaiticus, Rev9:10-11:3,5-16:15,17-17:2
+276 Church: Mani (prophet), crucified, founder of the dualistic Manichaean sect in Persia
+282-300? Church: Theonas, bishop of Alexandria (Ante-Nicene Fathers)
+290-345? Church: St Pachomius, founder of Christian monasticism
+296-304 Church: Pope Marcellinus, offered pagan sacrifices for Diocletian, later repented. Name in Martyrology of Bede
+301 Church: Armenia is the first kingdom in history to adopt Christianity as state religion
+303-312 Church: Diocletian's Massacre of Christians, includes burning of scriptures (EH 8.2)
+303 Church: Saint George, patron saint of Georgia, England and other states
+304? Church: Victorinus, bishop of Pettau
+304? Church: Pope Marcellinus, having repented from his previous defection, suffers martyrdom with several companions
+306 Church: Synod of Elvira prohibits relations between Christians and Jews
+310 Church: Maxentius deports Pope Eusebius and Heraclius[23][24] to Sicily (relapse controversy)
+312 Church: Lucian of Antioch, founder of School of Antioch, martyred
+300 Period: Church: Byzantine Empire; Constantine I; links to Greece or Eastern Orthodoxy, 300's
+    - 300 Period: Byzantine Empire has links to Greece or Eastern Orthodoxy, 300's
+312 Church: Vision of Constantine: while gazing into the sun he sees a cross with the words by this sign conquer, 
+    - see also Labarum, he was later called the 13th Apostle and Equal-to-apostles
+313 Church: Edict of Milan: Constantine and Licinius end persecution, establish toleration of Christianity
+313? Church: Lateran Palace given to Pope Miltiades for residence by Constantine
+313? Church: Traditional date for founding of the Brotherhood of the Holy Sepulchre
+314 Church: King Urnayr of Caucasian Albania adopts Christianity as official religion
+314 Church: Catholic Council of Arles,[25] called by Constantine against Donatist schism to confirm the Council of Rome in 313
+314-340? Church: Eusebius, bishop of Caesarea, church historian, cited Caesarean text-type, wrote Ecclesiastical History in 325[26]
+317? Church: Lactantius
+318 Church: Schism: with Arianism, 
+321 Church: Constantine decrees Sunday as state "day of rest" (CJ3.12.2), see also Sol Invictus
+324 Church: Period: Byzantine Empire Constantinople rebuilt by Constantine I 
+    - Eastern Roman Empire
+    - the eastern parts kept their Hellenistic culture
+    - the western parts were Latinised 
+    - Constantine secured absolute power in 324
+    - Over the next six years, he rebuilt the city of Byzantium as a new capital that he called "New Rome" 
+325-381 Church: Period: Nicene period, a crucial era; First Council of Nicaea
+    - and the First Council of Constantinople (381 AD). 
+    - development and formalization of Nicene Christianity, 
+    - which adheres to the teachings of the Nicene Creed. 
+    - establishment of key doctrines and the rise of prominent Church Fathers. 
+330 Period: Church: Move capital to Constantinople  (Roman empor Constantine the Great )
+354–430 Church: Augustine of Hippo - Saint Augustine
+    - Hippo refers to Hippo Regius; ancient name of the modern city of Annaba, Algeria.Phoenicians, Berbers, Romans, and Vandals.
+379 Church: Christianity made the state religion
+    - Theodosius I (r. 379–395) made Christianity the state religion and Greek gradually replaced Latin for official use. 
+
+391 Church: Library of Alexandra Destroyed
+    - attributed to Christian persecution in when the Serapeum (a temple housing some of the library's collection) was destroyed. 
+    - Christians led by Theophilus did destroy the Serapeum 
+    - the Library of Alexandria had already ceased to exist in any recognizable form centuries prior to Hypatia's birth.[10] 
+    - Finally, some accounts suggest a Muslim conquest in 640 CE led to the library's destruction, 
+        though this account is disputed by some scholars. 
+391 CE Judeo: (Serapeum destruction):
+    - Coptic Christians, led by Archbishop Theophilus, destroyed the Serapeum, 
+    - a temple housing some of the library's collection. This is seen as a major blow to the library, 
+    - but it's not necessarily the final destruction. 
+451 Church: Schism: Oriental Orthodox, 
+640 CE Muslim: (Muslim conquest):
+    - Some accounts claim that the Muslim conquest of Alexandria led to the destruction of the library, 
+        with Caliph Omar ordering the books to be burned, according to the BAS Library. However, this account is disputed, 
+        and some scholars believe it may be an exaggeration or a later invention. 
+    - The Library of Alexandria wasn't destroyed in a single event but rather experienced a gradual decline and 
+    - several incidents of damage and destruction. 
+    - The 48 BCE fire is the most widely cited event, but it's unclear how much damage it caused. 
+    - The Serapeum destruction in 391 CE is another significant event, but it didn't completely destroy the library. 
+    - The 640 CE Muslim conquest and the alleged burning of the library by Caliph Omar is a controversial claim, 
+        with some scholars disputing its accuracy. 
+
+1054-1449 Church: Schism: East–West Schism; the Eastern Orthodox Churches parted ways with the Western Church 
+    - over doctrinal issues (see the filioque) and papal primacy, and in 
+1167 Church: Siege of Alexandria by Crusader forces against Saladin. 
+1174 Church: Siege of Alexandria by Norman Sicilian forces. 
+1204 Church: Period: Byzantine Empire Ends - Crusader sack of Constantinople - Fourth Crusade. 
+1517 Church: rotestant: Schism: Protestant Reformation, of which there were many divisions, resulting in over 200 denominations
+1865 Evolution: "Experiments on Plant Hybridization" published by Gregor Mendel, an Augustinian friar
+    - considered to be the founder of modern genetics. 
+1859 Evolution: "On the Origin of Species" published by Darwin 
+
+
