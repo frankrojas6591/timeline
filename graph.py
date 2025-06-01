@@ -1,38 +1,7 @@
 '''
 Core services for managing a pyvis network graph
 
-## physics of node layout controls the bounce in the edges
 
-https://stackoverflow.com/questions/74108243/pyvis-is-there-a-way-to-disable-physics-without-losing-graphs-layout
-
-1. add_node physics=False
-1. add_edge physics=False
-3. net.toggle_physics(False)
-4. Network(options={"physics": {"enabled": False}})
-      https://stackoverflow.com/questions/67548160/pyvis-graph-wont-stop-moving
-5. Robust: The problem is that toggle_physics(False) doesn't allow the generated html to initially group the nodes out using a physics based algorithm like force Atlas 2based. So what we really want to do is disable physics right after the G.show_buttons(filter_=['physics'])  and immediately toggling physics off, but a more robust solution would be editing the html itself so that physics is automatically turned off after everything has loaded. This can be done by calling the following function:
-
-
-# Example usage
-nt.write_html('nx.html')
-add_physics_stop_to_html("nx.html")
-
-
-for node in net.get_nodes():
-  net.get_node(node)['x']=pos[node][0]
-  net.get_node(node)['y']=-pos[node][1] #the minus is needed here to respect networkx y-axis convention 
-  net.get_node(node)['physics']=False
-  net.get_node(node)['label']=str(node) #set the node label as a string so that it can be displayed
-
-Example 2
-net = Network()
-net.from_nx(G)
-
-for node in net.get_nodes():
-  net.get_node(node)['physics']=False
-  net.get_node(node)['label']=str(node)
-
-net.toggle_physics(False)
 '''
 from pyvis.network import Network
 from pyvis import network as net
@@ -44,45 +13,80 @@ from colors import graphColors
 # Needed to show graph.html on jupyter frame
 from IPython.display import display
 
+class graphAnchor(object):
+
+    def __init__(self, tlG, **kwargs):
+        '''
+        Determine anchor points for UL (upper left), LL (lower left)
+        UL default is (-2000, -2000
+        UL can be overridden x= and y=
+        '''
+        
+        # Add Legend Nodes
+        self.xstep = kwargs.get('xstep',0)
+        self.ystep = kwargs.get('ystep',100)
+
+        w = tlG._n2int(tlG.w, 400)
+        h = tlG._n2int(tlG.h, 500)
+
+
+        xOrig = kwargs.get('x',-2000)
+        yOrig = kwargs.get('y',-2000) 
+        
+        x = tlG._n2int(xOrig, w)
+        y = tlG._n2int(yOrig, h)
+
+        self.xUL = x
+        self.yUL = y
+
+        self.xLL = x
+        self.yLL = 0
+        print("Legend x,y", (w, h), (tlG.w, tlG.h), (xOrig, yOrig), f"UL({self.xUL}, {self.yUL})", f"LL({self.xLL}, {self.yLL})")
+
+
 class graphVis(object):
     def __init__(self, **kwargs):
         # Initialize pyvis Graph network
+        self._initNX(**kwargs)        
+        self.cg = graphColors()
+        self.w = kwargs.get('width',"100%")
+        self.h = kwargs.get('height', "500px")
+        self.a = graphAnchor(self, **kwargs)
+        
 
-        w = kwargs.get('width',"100%")
-        h = kwargs.get('height', "500px")
-        pyOptions = kwargs.get('options', {})
+    def _initVIS(self, **kwargs):
+
+        visOptions = kwargs.get('visOptDict', {})
         
         #net = Network(height="750px", width="100%", bgcolor="#222222", font_color="white")
-        self.pvG = net.Network(height=h, width=w, 
+        self.pvG = net.Network(height=self.h, width=self.w, 
                                notebook=True, 
                                cdn_resources='in_line',
-                               **pyOptions)
-        self._initNX(**kwargs)
-        self.cg = graphColors()
+                               **visOptions)
 
     def _initNX(self, **kwargs):
-        graphNum = kwargs.get('graphNum', 10)
+        graphNum = kwargs.get('graphNum', 0)
         #g = nx.cycle_graph(10)
         #g = nx.complete_graph(5)
+
+        # Select nx graph layout
+        g = kwargs.get('nxG', None)
         
-        g = kwargs.get('nxGraph', 'Graph')
         if g == 'cycle_graph' : self.G = nx.cycle_graph(graphNum)
         elif g == 'complete_graph' : self.G = nx.complete_graph(graphNum)
-        else:
+        elif g == 'default' : 
             # Empty Graph
             print("Use empty nx.Graph")
             self.G = nx.Graph()
+        else:
+            self.G = None
+            
+            
 
-    def draw(self, **kwargs):
+    def draw_fromVIS(self, **kwargs):
         '''
-        Default is to use pyvis to draw
-        - import network from nx (self.g)
+        This was the initial draw function (w/in juypter) using pvvis network. 
         '''
-        # import NX network
-        if len(self.G.nodes) > 0 : 
-            print("draw: Import NX network")
-            self.pvG.from_nx(self.G)
-        
         # Get HTML filename
         gFN = self.FN(**kwargs)
         
@@ -90,7 +94,44 @@ class graphVis(object):
         display(self.pvG.show(gFN))
         
         #display(IFrame(src=gFN, width=w, height=h))
+
+    def draw_fromNX(self, **kwargs):
+        '''
+        Default is to use pyvis to draw
+        - import network from nx (self.g)
+
+        REF: https://stackoverflow.com/questions/77754435/pyvis-and-networkx-how-to-make-nodes-different-color-based-on-source-or-target
+        '''
+        # Get HTML filename
+        gFN = self.FN(**kwargs)
+
+        # NOTE: assumes nx network
+        cList = [n['color'] for nm,n in self.gObj().nodes(data=True)]
+
+        #nx.draw(self.G, node_color=cList, with_labels=True)
+
+        #net = Network(notebook=True, filter_menu=True, cdn_resources='remote')
+        self._initVIS(**kwargs)
         
+        # import NX network
+        print("draw: Import NX network")
+        self.pvG.from_nx(self.G)
+        
+        # Generate html with jscript interaction
+        display(self.pvG.show(gFN))
+        
+        #display(IFrame(src=gFN, width=w, height=h))
+
+    def draw(self, **kwargs):
+        if self.G : 
+            self.draw_fromNX(**kwargs)
+            return
+        self.draw_fromVIS(**kwargs)
+
+    def gObj(self):
+        if self.G is not None : return self.G
+        if self.pvG is not None : return self.pvG
+        return None
 
     def FN(self, **kwargs):
         return kwargs.get('FN', "data/graphShow.html")
@@ -105,19 +146,45 @@ class graphVis(object):
         nx.draw(self.G, with_labels=True)
         plt.show()
 
+    def _n2int(self, n, dim):
+        '''
+        Convert numeric arg into int
+
+        100    -> 100
+        "80%"  -> w *80/100
+        "100px" -> 100
+        '''
+        
+        try:
+            return int(n)
+        except:
+            pass
+        if type(n) != str : 
+            print("ERROR: bad number formation:", n)
+            return None
+        if n.strip()[0] == '-' : 
+            n = int(n)
+        elif '%' in n : 
+            n = int(n.replace('%',''))/100 * int(dim)
+            return n
+        elif 'px' in n:
+            n = int(n.replace('px',''))
+            return n
+        else:
+            print("ERROR: unknown dimention format:", n)
+            return None
+
     def addLegend(self, G, cmDict, **kwargs):
         '''
         https://github.com/WestHealth/pyvis/issues/50
 
         Adds legend nodes (with colors) into G
-        '''
-        # Add Legend Nodes
-        xstep = kwargs.get('xstep',0)
-        ystep = kwargs.get('ystep',20)
-        x = kwargs.get('x',-300)
-        y = kwargs.get('y',-250)
-        nList = []
         
+        '''
+        # get anchor points for UL and LL, also xstep, ystep
+        a = self.a
+        
+        nList = []
         nNum = len(G.nodes)
         for nID,k in enumerate(cmDict.keys()):
             G.add_node(f"Legend_{nNum + nID}",**{
@@ -126,11 +193,11 @@ class graphVis(object):
                     'size': 30, 
                     # 'fixed': True, # So that we can move the legend nodes around to arrange them better
                     'physics': False, 
-                    'x': f'{x + nID*xstep}px', 
-                    'y': f'{y + nID*ystep}px',
+                    'x': f'{a.xUL + nID*a.xstep}px', 
+                    'y': f'{a.yUL + nID*a.ystep}px',
                     'shape': 'box', 
-                    'widthConstraint': 80, 
-                    'font': {'size': 10},
+                    'widthConstraint': 00, 
+                    'font': {'size': 80},
                     'color' : cmDict[k]
                 })
 

@@ -25,6 +25,9 @@ class timelineGraph(graphVis):
         
         #timeline obj is required
         tl = kwargs['timeline']
+
+        # graph object acts like a timeline object but focuses on graphing
+        # Every event has a unique ID (enumerated by the set of evDict)
         self.evDict = {}
         prfxList = []
         for evID, (kw,desc) in enumerate(tl.evDict.items()):
@@ -46,7 +49,6 @@ class timelineGraph(graphVis):
         self.t2Dict = self.sortT2Dict(d)
         
         #self.importGraph()
-        
 
     def _initPrefix(self):
         cr = graphColors()
@@ -136,16 +138,17 @@ class timelineGraph(graphVis):
         return {k:t2Dict[k] for k in d.keys()}
 
 
-    def _prfx2Size(self, n, prfx):
+    def _prfx2Size(self, n, prfx, **kwargs):
         # FIXME: determine size based on Tier2 timeline
-        scale = 10
-        d = {'Period': 20,
-             'Church': 10, 'Judeo': 10, 'Muslim': 10,
+        # node size is dependent on net.barnes_hut settings.  
+        scale = 5
+        d = {'Period': 12,
+             'Church': 8, 'Judeo': 8, 'Muslim': 8,
              'Roman': 5, 'Greek': 5, 
              'Evolution': 3, 
               }
-        if 'Mil' in n : sz = 50
-        elif n == 'Events' : sz = 100
+        if 'Mil' in n : sz = 15
+        elif n == 'Events' : sz = 20
         elif prfx in d.keys(): sz = d[prfx]
         else: sz = 3
         #print("147 size", sz, n, prfx)
@@ -157,28 +160,45 @@ class timelineGraph(graphVis):
 
         Events :  top of network
         tier2 : can be Milleniums or PrefixSet or customClassification
+
+        Add tier2 nodes into prfxDict 
         '''
-        G = self.pvG
+        G = self.gObj()
         nStart = 'Events'
         
         ## FIXME: delete -- nPrev = prefix if prefix is not None else 'Events'
-        G.add_node(nStart, size=self._prfx2Size(nStart,nStart), title=f"Start of Timeline")
+        G.add_node(nStart, 
+                   size=self._prfx2Size(nStart,nStart), 
+                   title=f"Start of Timeline",
+                   label='Start',
+                   prefix='tier1',
+                   color=self.cmDict['tier1'],
+                   value = 1000)
+        
         nPrev = nStart
         for n in self.t2Dict.keys():
-            G.add_node(n, size=self._prfx2Size(n, n), title=f"Events_{n}")
+            G.add_node(n, size=self._prfx2Size(n, n), 
+                       title=f"Events_{n}",
+                       label=f"Events_{n}",
+                       prefix='tier2',
+                       color = self.cmDict['tier2'],
+                       value=1001)
             G.add_edge(nPrev,n)
+            self.prfxDict[n] = 100
+            
             nPrev = n
+
+        self.prfxDict[nStart] = 1000
         
         
-    def importGraph(self, prefix = None, **kwargs):
-        if prefix is None:
-            prefix = 'Events'
+        
+    def importGraph(self, **kwargs):
 
         gc = graphColors()
         cmDict = self.cmDict
         
             
-        G = self.pvG
+        G = self.gObj()
         # FIXME: legend nodes to not display
         self.addLegend(G, cmDict)
         self._importGraphTop()
@@ -223,11 +243,26 @@ class timelineGraph(graphVis):
             G.add_node(n, 
                        size=self._prfx2Size(n, prfx),      # size of node
                        title=str(f"{kw}\n{desc}"),   # display on hover 
+                       label=yr,                     # text to display
+                       prefix=prfx,
                        color=self.cmDict[prfx],      # node color, based on prefix
-                       label=yr,                     # ???
+                       value=evID,                   # enumerate)
             )
             G.add_edge(nPrev,n)
             prevDict[kwT2] = n
+
+        # Link edge from last event per Mil back to start
+        # FIXME: error on draw, linking back to T2 violates directed graPH, NEED 
+        for t2, (t2ID,evDict) in self.t2Dict.items():
+            n = len(evDict)
+            if n != 0 : 
+                (evID, yr) = list(evDict.keys())[-1]
+                nm = f"{evID}-{yr}"
+                #G.add_edge(nm, t2)
+                
+
+
+    
 
 
     def keys(self): return self.evDict.keys()
@@ -249,3 +284,44 @@ class timelineGraph(graphVis):
             return key, self.evDict[key] # Return key-value pair
         else:
             raise StopIteration
+
+    def _reprNodes(self):
+        tx = ''
+        G = self.gObj()
+        if G is not None:
+            tx += f"\n--- Nodes({len(G.nodes)})/Edges({len(G.edges)})\n"
+            for nm,n in self.G.nodes(data=True):
+                tx += f"===> {nm}, {n}\n"
+        return tx
+        
+
+    def __repr__(self):
+
+        tx = "timelineGraph Object\n"
+
+        try:
+            tx += "\n--- evDict"
+            tx += f"events: {len(self.evDict)}\n"
+        except: pass
+            
+        try:
+            tx += "\n--- prfxDict"
+            tx += f"{self.prfxDict}\n"
+        except: pass
+        
+        try:
+            tx += "\n--- t2Dict\n"
+            d = {nm:len(l) for nm,l in self.t2Dict.items()}
+            tx += f"{d}\n"
+        except: pass
+            
+        try:
+            tx += "\n--- cmDict\n"
+            tx += f"{self.cmDict}\n"
+        except: pass
+            
+        G = self.gObj()
+        if G is not None:
+            tx += f"\n--- Graph: Nodes({len(G.nodes)})/Edges({len(G.edges)})\n"
+
+        return tx

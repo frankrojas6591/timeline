@@ -41,7 +41,10 @@ class graphColors(object):
         colors = cmap(np.linspace(0, 1, num_colors))
         
         # Convert to hex
-        return {kw:v for kw,v in zip(kList, [matplotlib.colors.to_hex(color) for color in colors])}
+        cmapDict = {kw:v for kw,v in zip(kList, [matplotlib.colors.to_hex(color) for color in colors])}
+        cmapDict['tier1'] = 'Black'
+        cmapDict['tier2'] = "#111111" # dark gray or #202020
+        return cmapDict
 
 
     def plot_color_gradients(self, category, cmap_list):
